@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+matplotlib
+pymc==4.2.2
+einops
+jupyterlab
